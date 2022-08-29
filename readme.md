@@ -94,6 +94,13 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=7c4c9e"/>
 </a>
 </div>
+
+<h3 align="center" color="white">Artist Landing Page</h2>
+<div align="center" >
+<a href="https://github.com/MaViSunshine/Artist-landingpage-sass" target="_blank">
+<video src="https://user-images.githubusercontent.com/90439054/187125491-3d7e6b64-95a4-4324-8a19-a00d969aebcc.webm" placeholder= "https://user-images.githubusercontent.com/90439054/187125491-3d7e6b64-95a4-4324-8a19-a00d969aebcc.webm"></video>
+</a>
+
 </td>
 </ br>
 <br />

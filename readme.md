@@ -45,7 +45,7 @@
 <h3 align="center" color="white">React Movie Site</h2>
 <div align="center" >
 <a href="https://github.com/MaViSunshine/German-Learning-Audioboard" target="_blank">
-<video src="https://user-images.githubusercontent.com/90439054/176324123-96144457-0b04-4cce-9d56-b300cd51e0d9.mp4" placeholder= "https://user-images.githubusercontent.com/90439054/176324123-96144457-0b04-4cce-9d56-b300cd51e0d9.mp4"></video>
+<video src="https://user-images.githubusercontent.com/90439054/187148202-c6b2cfa7-466c-4428-931f-6132e6ad27be.webm" placeholder= "https://user-images.githubusercontent.com/90439054/187148202-c6b2cfa7-466c-4428-931f-6132e6ad27be.webm"></video>
 </a>
 <p><strong>React, JavaScript, HTML5, CSS3</strong> - Single page application with infinite scroll, made in React and consuming the IMDB API w/ React Router. Provides movie details on clic. Fully responsive. </p>
 <p>

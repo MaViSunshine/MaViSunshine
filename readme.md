@@ -118,6 +118,6 @@
 <a align="center" href="www.linkedin.com/in/mavi-serra">
   <img  alt="Mavi's Linkedin" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/></a>
 
-</ br>
+
 <br />
   </h2>

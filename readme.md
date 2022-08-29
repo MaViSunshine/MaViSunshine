@@ -113,9 +113,9 @@
 <br />
 <a align="center" href="https://twitter.com/MaviSunshine">
   <img  alt="Mavi's Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
-<a align="center" href="https://twitter.com/MaviSunshine">
+<a align="center" href="https://angel.co/u/mavi-serra">
   <img  alt="Mavi's AngelList" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angellist.svg"/></a>
-<a align="center" href="https://twitter.com/MaviSunshine">
+<a align="center" href="www.linkedin.com/in/mavi-serra">
   <img  alt="Mavi's Linkedin" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/></a>
 
 </ br>

@@ -70,10 +70,10 @@
 </a>
 <p><strong>JavaScript, HTML5, CSS3</strong> - Child friendly language learning interface. Oriented to practice basic vocabulary through a pictographic card display and audio.</p>
 <p>
-<a href="https://github.com/MaViSunshine/Movie-Finder-w-Autocomplete" target="_blank">
+<a href="https://github.com/MaViSunshine/German-Learning-Audioboard" target="_blank">
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a> 
-<a href="#" target="_blank">
+<a href="https://german-learning-soundboard.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=7c4c9e"/>
 </a>
 </p>

@@ -100,6 +100,14 @@
 <a href="https://github.com/MaViSunshine/Artist-landingpage-sass" target="_blank">
 <video src="https://user-images.githubusercontent.com/90439054/187125491-3d7e6b64-95a4-4324-8a19-a00d969aebcc.webm" placeholder= "https://user-images.githubusercontent.com/90439054/187125491-3d7e6b64-95a4-4324-8a19-a00d969aebcc.webm"></video>
 </a>
+<p><strong>HTML5, SASS CSS3</strong> Landing page for artist, made with Sass. Responsive and front-end only.</p>
+<a href="https://github.com/MaViSunshine/Movie-Finder-w-Autocomplete" target="_blank">
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+</a> 
+<a href="https://sass-artist-demo.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=7c4c9e"/>
+</a>
+</div>  
 
 </td>
 </ br>
